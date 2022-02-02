@@ -16,14 +16,14 @@ VALUES
 -- ROLES
 INSERT INTO role (title, salary, department_id)
 VALUES 
-("Assistant to RM", 85000.00, 1),
-("Regional Manager", 120000.00, 1),
+("Vice President", 85000.00, 1),
+("Chief Exectutive Officer (CEO)", 120000.00, 1),
 ("Accountant", 65000.00, 2),
-("HR Associate", 75000.00, 3),
-("Software Engineer", 125000.00, 4),
-("Administrative Professional", 38000.00, 5),
+("Manager, Human Resources", 75000.00, 3),
+("Software Engineer (Front End)", 125000.00, 4),
+("Administration", 38000.00, 5),
 ("Manager", 75000.00, 6),
-("Quality Control Associate", 40000.00, 6),
+("Quality Control", 40000.00, 6),
 ("Sales Representative", 55000.00, 6);
 
 -- SELECT * FROM role;

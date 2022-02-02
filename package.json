@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "inquire": "^0.4.8",
     "inquirer": "^8.2.0",
     "mysql2": "^2.3.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
